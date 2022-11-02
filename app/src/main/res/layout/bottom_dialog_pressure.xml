@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff"
+    android:orientation="vertical"
+    android:paddingBottom="20dp"
+    android:paddingLeft="22.5dp"
+    android:paddingRight="22.5dp"
+    android:paddingTop="20dp">
+
+    <Button
+        android:id="@+id/btn_Pa"
+        android:layout_width="match_parent"
+        android:layout_height="42dp"
+        android:gravity="center"
+        android:text="@string/Pa"
+        android:background="#ffffff"
+        android:textColor="#000000"
+        android:textSize="18sp" />
+
+    <Button
+        android:id="@+id/btn_mmw"
+        android:layout_width="match_parent"
+        android:layout_height="42dp"
+        android:layout_marginTop="16dp"
+        android:gravity="center"
+        android:text="@string/mmw"
+        android:background="#ffffff"
+        android:textColor="#000000"
+        android:textSize="18sp" />
+
+    <Button
+        android:id="@+id/btn_mmHg"
+        android:layout_width="match_parent"
+        android:layout_height="42dp"
+        android:layout_marginTop="16dp"
+        android:gravity="center"
+        android:text="@string/mmHg"
+        android:background="#ffffff"
+        android:textColor="#000000"
+        android:textSize="18sp" />
+    <Button
+        android:id="@+id/btn_hPa"
+        android:layout_width="match_parent"
+        android:layout_height="42dp"
+        android:layout_marginTop="16dp"
+        android:gravity="center"
+        android:text="@string/hPa"
+        android:background="#ffffff"
+        android:textColor="#000000"
+        android:textSize="18sp" />
+    <Button
+        android:id="@+id/btn_atm"
+        android:layout_width="match_parent"
+        android:layout_height="42dp"
+        android:layout_marginTop="16dp"
+        android:gravity="center"
+        android:text="@string/atm"
+        android:background="#ffffff"
+        android:textColor="#000000"
+        android:textSize="18sp" />
+    <Button
+        android:id="@+id/btn_kPa"
+        android:layout_width="match_parent"
+        android:layout_height="42dp"
+        android:layout_marginTop="16dp"
+        android:gravity="center"
+        android:text="@string/kPa"
+        android:background="#ffffff"
+        android:textColor="#000000"
+        android:textSize="18sp" />
+    <Button
+        android:id="@+id/btn_MPa"
+        android:layout_width="match_parent"
+        android:layout_height="42dp"
+        android:layout_marginTop="16dp"
+        android:gravity="center"
+        android:text="@string/MPa"
+        android:background="#ffffff"
+        android:textColor="#000000"
+        android:textSize="18sp" />
+
+</LinearLayout>

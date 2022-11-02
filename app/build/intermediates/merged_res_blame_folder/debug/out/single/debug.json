@@ -1,0 +1,238 @@
+[
+    {
+        "merged": "C:\\Users\\13916\\.gradle\\daemon\\7.4\\com.example.calculator.app-merged_res-29:\\layout_activity_sci_cal.xml.flat",
+        "source": "C:\\Users\\13916\\.gradle\\daemon\\7.4\\com.example.calculator.app-main-31:\\layout\\activity_sci_cal.xml"
+    },
+    {
+        "merged": "C:\\Users\\13916\\.gradle\\daemon\\7.4\\com.example.calculator.app-merged_res-29:\\layout_bottom_dialog.xml.flat",
+        "source": "C:\\Users\\13916\\.gradle\\daemon\\7.4\\com.example.calculator.app-main-31:\\layout\\bottom_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\13916\\.gradle\\daemon\\7.4\\com.example.calculator.app-merged_res-29:\\menu_menu_settings.xml.flat",
+        "source": "C:\\Users\\13916\\.gradle\\daemon\\7.4\\com.example.calculator.app-main-31:\\menu\\menu_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\13916\\.gradle\\daemon\\7.4\\com.example.calculator.app-merged_res-29:\\drawable_btn_pressed.xml.flat",
+        "source": "C:\\Users\\13916\\.gradle\\daemon\\7.4\\com.example.calculator.app-main-31:\\drawable\\btn_pressed.xml"
+    },
+    {
+        "merged": "C:\\Users\\13916\\.gradle\\daemon\\7.4\\com.example.calculator.app-merged_res-29:\\layout_bottom_dialog_temperature.xml.flat",
+        "source": "C:\\Users\\13916\\.gradle\\daemon\\7.4\\com.example.calculator.app-main-31:\\layout\\bottom_dialog_temperature.xml"
+    },
+    {
+        "merged": "C:\\Users\\13916\\.gradle\\daemon\\7.4\\com.example.calculator.app-merged_res-29:\\anim_actionsheet_dialog_in.xml.flat",
+        "source": "C:\\Users\\13916\\.gradle\\daemon\\7.4\\com.example.calculator.app-main-31:\\anim\\actionsheet_dialog_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\13916\\.gradle\\daemon\\7.4\\com.example.calculator.app-merged_res-29:\\layout_activity_convert_length.xml.flat",
+        "source": "C:\\Users\\13916\\.gradle\\daemon\\7.4\\com.example.calculator.app-main-31:\\layout\\activity_convert_length.xml"
+    },
+    {
+        "merged": "C:\\Users\\13916\\.gradle\\daemon\\7.4\\com.example.calculator.app-merged_res-29:\\layout_cal_history_item.xml.flat",
+        "source": "C:\\Users\\13916\\.gradle\\daemon\\7.4\\com.example.calculator.app-main-31:\\layout\\cal_history_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\13916\\.gradle\\daemon\\7.4\\com.example.calculator.app-merged_res-29:\\drawable_button_selector.xml.flat",
+        "source": "C:\\Users\\13916\\.gradle\\daemon\\7.4\\com.example.calculator.app-main-31:\\drawable\\button_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\13916\\.gradle\\daemon\\7.4\\com.example.calculator.app-merged_res-29:\\layout_bottom_dialog_area.xml.flat",
+        "source": "C:\\Users\\13916\\.gradle\\daemon\\7.4\\com.example.calculator.app-main-31:\\layout\\bottom_dialog_area.xml"
+    },
+    {
+        "merged": "C:\\Users\\13916\\.gradle\\daemon\\7.4\\com.example.calculator.app-merged_res-29:\\layout_bottom_dialog_volume.xml.flat",
+        "source": "C:\\Users\\13916\\.gradle\\daemon\\7.4\\com.example.calculator.app-main-31:\\layout\\bottom_dialog_volume.xml"
+    },
+    {
+        "merged": "C:\\Users\\13916\\.gradle\\daemon\\7.4\\com.example.calculator.app-merged_res-29:\\xml_network_security_config.xml.flat",
+        "source": "C:\\Users\\13916\\.gradle\\daemon\\7.4\\com.example.calculator.app-main-31:\\xml\\network_security_config.xml"
+    },
+    {
+        "merged": "C:\\Users\\13916\\.gradle\\daemon\\7.4\\com.example.calculator.app-merged_res-29:\\drawable_ic_arrow_back_black_24dp.xml.flat",
+        "source": "C:\\Users\\13916\\.gradle\\daemon\\7.4\\com.example.calculator.app-main-31:\\drawable\\ic_arrow_back_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\13916\\.gradle\\daemon\\7.4\\com.example.calculator.app-merged_res-29:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\13916\\.gradle\\daemon\\7.4\\com.example.calculator.app-main-31:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "com.example.calculator.app-merged_res-29:/layout_activity_sci_cal.xml.flat",
+        "source": "com.example.calculator.app-main-31:/layout/activity_sci_cal.xml"
+    },
+    {
+        "merged": "C:\\Users\\13916\\.gradle\\daemon\\7.4\\com.example.calculator.app-merged_res-29:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\13916\\.gradle\\daemon\\7.4\\com.example.calculator.app-main-31:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\13916\\.gradle\\daemon\\7.4\\com.example.calculator.app-merged_res-29:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\13916\\.gradle\\daemon\\7.4\\com.example.calculator.app-main-31:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\13916\\.gradle\\daemon\\7.4\\com.example.calculator.app-merged_res-29:\\drawable_ic_settings.xml.flat",
+        "source": "C:\\Users\\13916\\.gradle\\daemon\\7.4\\com.example.calculator.app-main-31:\\drawable\\ic_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\13916\\.gradle\\daemon\\7.4\\com.example.calculator.app-merged_res-29:\\layout_activity_convert_base.xml.flat",
+        "source": "C:\\Users\\13916\\.gradle\\daemon\\7.4\\com.example.calculator.app-main-31:\\layout\\activity_convert_base.xml"
+    },
+    {
+        "merged": "C:\\Users\\13916\\.gradle\\daemon\\7.4\\com.example.calculator.app-merged_res-29:\\menu_menu_convert_array.xml.flat",
+        "source": "C:\\Users\\13916\\.gradle\\daemon\\7.4\\com.example.calculator.app-main-31:\\menu\\menu_convert_array.xml"
+    },
+    {
+        "merged": "C:\\Users\\13916\\.gradle\\daemon\\7.4\\com.example.calculator.app-merged_res-29:\\drawable_ic_down_small_primary.xml.flat",
+        "source": "C:\\Users\\13916\\.gradle\\daemon\\7.4\\com.example.calculator.app-main-31:\\drawable\\ic_down_small_primary.xml"
+    },
+    {
+        "merged": "C:\\Users\\13916\\.gradle\\daemon\\7.4\\com.example.calculator.app-merged_res-29:\\layout_bottom_dialog_power.xml.flat",
+        "source": "C:\\Users\\13916\\.gradle\\daemon\\7.4\\com.example.calculator.app-main-31:\\layout\\bottom_dialog_power.xml"
+    },
+    {
+        "merged": "C:\\Users\\13916\\.gradle\\daemon\\7.4\\com.example.calculator.app-merged_res-29:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\13916\\.gradle\\daemon\\7.4\\com.example.calculator.app-main-31:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\13916\\.gradle\\daemon\\7.4\\com.example.calculator.app-merged_res-29:\\layout_activity_convert_weight.xml.flat",
+        "source": "C:\\Users\\13916\\.gradle\\daemon\\7.4\\com.example.calculator.app-main-31:\\layout\\activity_convert_weight.xml"
+    },
+    {
+        "merged": "C:\\Users\\13916\\.gradle\\daemon\\7.4\\com.example.calculator.app-merged_res-29:\\layout_bottom_dialog_speed.xml.flat",
+        "source": "C:\\Users\\13916\\.gradle\\daemon\\7.4\\com.example.calculator.app-main-31:\\layout\\bottom_dialog_speed.xml"
+    },
+    {
+        "merged": "C:\\Users\\13916\\.gradle\\daemon\\7.4\\com.example.calculator.app-merged_res-29:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\13916\\.gradle\\daemon\\7.4\\com.example.calculator.app-main-31:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\13916\\.gradle\\daemon\\7.4\\com.example.calculator.app-merged_res-29:\\layout_activity_convert_volume.xml.flat",
+        "source": "C:\\Users\\13916\\.gradle\\daemon\\7.4\\com.example.calculator.app-main-31:\\layout\\activity_convert_volume.xml"
+    },
+    {
+        "merged": "C:\\Users\\13916\\.gradle\\daemon\\7.4\\com.example.calculator.app-merged_res-29:\\layout_activity_convert_power.xml.flat",
+        "source": "C:\\Users\\13916\\.gradle\\daemon\\7.4\\com.example.calculator.app-main-31:\\layout\\activity_convert_power.xml"
+    },
+    {
+        "merged": "C:\\Users\\13916\\.gradle\\daemon\\7.4\\com.example.calculator.app-merged_res-29:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\13916\\.gradle\\daemon\\7.4\\com.example.calculator.app-main-31:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\13916\\.gradle\\daemon\\7.4\\com.example.calculator.app-merged_res-29:\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\13916\\.gradle\\daemon\\7.4\\com.example.calculator.app-main-31:\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\13916\\.gradle\\daemon\\7.4\\com.example.calculator.app-merged_res-29:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\13916\\.gradle\\daemon\\7.4\\com.example.calculator.app-main-31:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\13916\\.gradle\\daemon\\7.4\\com.example.calculator.app-merged_res-29:\\layout_activity_convert_speed.xml.flat",
+        "source": "C:\\Users\\13916\\.gradle\\daemon\\7.4\\com.example.calculator.app-main-31:\\layout\\activity_convert_speed.xml"
+    },
+    {
+        "merged": "C:\\Users\\13916\\.gradle\\daemon\\7.4\\com.example.calculator.app-merged_res-29:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\13916\\.gradle\\daemon\\7.4\\com.example.calculator.app-main-31:\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\13916\\.gradle\\daemon\\7.4\\com.example.calculator.app-merged_res-29:\\layout_activity_convert_exchange_rate.xml.flat",
+        "source": "C:\\Users\\13916\\.gradle\\daemon\\7.4\\com.example.calculator.app-main-31:\\layout\\activity_convert_exchange_rate.xml"
+    },
+    {
+        "merged": "C:\\Users\\13916\\.gradle\\daemon\\7.4\\com.example.calculator.app-merged_res-29:\\layout_cal_history.xml.flat",
+        "source": "C:\\Users\\13916\\.gradle\\daemon\\7.4\\com.example.calculator.app-main-31:\\layout\\cal_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\13916\\.gradle\\daemon\\7.4\\com.example.calculator.app-merged_res-29:\\layout_bottom_dialog_weight.xml.flat",
+        "source": "C:\\Users\\13916\\.gradle\\daemon\\7.4\\com.example.calculator.app-main-31:\\layout\\bottom_dialog_weight.xml"
+    },
+    {
+        "merged": "C:\\Users\\13916\\.gradle\\daemon\\7.4\\com.example.calculator.app-merged_res-29:\\menu_menu_cal_array.xml.flat",
+        "source": "C:\\Users\\13916\\.gradle\\daemon\\7.4\\com.example.calculator.app-main-31:\\menu\\menu_cal_array.xml"
+    },
+    {
+        "merged": "C:\\Users\\13916\\.gradle\\daemon\\7.4\\com.example.calculator.app-merged_res-29:\\menu_menu_settings_convert.xml.flat",
+        "source": "C:\\Users\\13916\\.gradle\\daemon\\7.4\\com.example.calculator.app-main-31:\\menu\\menu_settings_convert.xml"
+    },
+    {
+        "merged": "C:\\Users\\13916\\.gradle\\daemon\\7.4\\com.example.calculator.app-merged_res-29:\\anim_actionsheet_dialog_out.xml.flat",
+        "source": "C:\\Users\\13916\\.gradle\\daemon\\7.4\\com.example.calculator.app-main-31:\\anim\\actionsheet_dialog_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\13916\\.gradle\\daemon\\7.4\\com.example.calculator.app-merged_res-29:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\13916\\.gradle\\daemon\\7.4\\com.example.calculator.app-main-31:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\13916\\.gradle\\daemon\\7.4\\com.example.calculator.app-merged_res-29:\\layout_activity_convert_temperature.xml.flat",
+        "source": "C:\\Users\\13916\\.gradle\\daemon\\7.4\\com.example.calculator.app-main-31:\\layout\\activity_convert_temperature.xml"
+    },
+    {
+        "merged": "C:\\Users\\13916\\.gradle\\daemon\\7.4\\com.example.calculator.app-merged_res-29:\\layout_bottom_dialog_base.xml.flat",
+        "source": "C:\\Users\\13916\\.gradle\\daemon\\7.4\\com.example.calculator.app-main-31:\\layout\\bottom_dialog_base.xml"
+    },
+    {
+        "merged": "C:\\Users\\13916\\.gradle\\daemon\\7.4\\com.example.calculator.app-merged_res-29:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\13916\\.gradle\\daemon\\7.4\\com.example.calculator.app-main-31:\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\13916\\.gradle\\daemon\\7.4\\com.example.calculator.app-merged_res-29:\\drawable_dialog_white_bg.xml.flat",
+        "source": "C:\\Users\\13916\\.gradle\\daemon\\7.4\\com.example.calculator.app-main-31:\\drawable\\dialog_white_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\13916\\.gradle\\daemon\\7.4\\com.example.calculator.app-merged_res-29:\\drawable_btn_convert_selector.xml.flat",
+        "source": "C:\\Users\\13916\\.gradle\\daemon\\7.4\\com.example.calculator.app-main-31:\\drawable\\btn_convert_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\13916\\.gradle\\daemon\\7.4\\com.example.calculator.app-merged_res-29:\\drawable_ic_down_small_primary_two.xml.flat",
+        "source": "C:\\Users\\13916\\.gradle\\daemon\\7.4\\com.example.calculator.app-main-31:\\drawable\\ic_down_small_primary_two.xml"
+    },
+    {
+        "merged": "C:\\Users\\13916\\.gradle\\daemon\\7.4\\com.example.calculator.app-merged_res-29:\\layout_activity_base_cal.xml.flat",
+        "source": "C:\\Users\\13916\\.gradle\\daemon\\7.4\\com.example.calculator.app-main-31:\\layout\\activity_base_cal.xml"
+    },
+    {
+        "merged": "C:\\Users\\13916\\.gradle\\daemon\\7.4\\com.example.calculator.app-merged_res-29:\\layout_bottom_dialog_pressure.xml.flat",
+        "source": "C:\\Users\\13916\\.gradle\\daemon\\7.4\\com.example.calculator.app-main-31:\\layout\\bottom_dialog_pressure.xml"
+    },
+    {
+        "merged": "C:\\Users\\13916\\.gradle\\daemon\\7.4\\com.example.calculator.app-merged_res-29:\\layout_activity_convert_pressure.xml.flat",
+        "source": "C:\\Users\\13916\\.gradle\\daemon\\7.4\\com.example.calculator.app-main-31:\\layout\\activity_convert_pressure.xml"
+    },
+    {
+        "merged": "C:\\Users\\13916\\.gradle\\daemon\\7.4\\com.example.calculator.app-merged_res-29:\\layout_bottom_dialog_exchange_rate.xml.flat",
+        "source": "C:\\Users\\13916\\.gradle\\daemon\\7.4\\com.example.calculator.app-main-31:\\layout\\bottom_dialog_exchange_rate.xml"
+    },
+    {
+        "merged": "C:\\Users\\13916\\.gradle\\daemon\\7.4\\com.example.calculator.app-merged_res-29:\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\13916\\.gradle\\daemon\\7.4\\com.example.calculator.app-main-31:\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\13916\\.gradle\\daemon\\7.4\\com.example.calculator.app-merged_res-29:\\layout_activity_convert_area.xml.flat",
+        "source": "C:\\Users\\13916\\.gradle\\daemon\\7.4\\com.example.calculator.app-main-31:\\layout\\activity_convert_area.xml"
+    },
+    {
+        "merged": "C:\\Users\\13916\\.gradle\\daemon\\7.4\\com.example.calculator.app-merged_res-29:\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\13916\\.gradle\\daemon\\7.4\\com.example.calculator.app-main-31:\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\13916\\.gradle\\daemon\\7.4\\com.example.calculator.app-merged_res-29:\\layout_activity_car_loan.xml.flat",
+        "source": "C:\\Users\\13916\\.gradle\\daemon\\7.4\\com.example.calculator.app-main-31:\\layout\\activity_car_loan.xml"
+    },
+    {
+        "merged": "C:\\Users\\13916\\.gradle\\daemon\\7.4\\com.example.calculator.app-merged_res-29:\\drawable_button_normal.xml.flat",
+        "source": "C:\\Users\\13916\\.gradle\\daemon\\7.4\\com.example.calculator.app-main-31:\\drawable\\button_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\13916\\.gradle\\daemon\\7.4\\com.example.calculator.app-merged_res-29:\\layout_activity_house_loan.xml.flat",
+        "source": "C:\\Users\\13916\\.gradle\\daemon\\7.4\\com.example.calculator.app-main-31:\\layout\\activity_house_loan.xml"
+    },
+    {
+        "merged": "C:\\Users\\13916\\.gradle\\daemon\\7.4\\com.example.calculator.app-merged_res-29:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\13916\\.gradle\\daemon\\7.4\\com.example.calculator.app-main-31:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\13916\\.gradle\\daemon\\7.4\\com.example.calculator.app-merged_res-29:\\drawable_edittext_style.xml.flat",
+        "source": "C:\\Users\\13916\\.gradle\\daemon\\7.4\\com.example.calculator.app-main-31:\\drawable\\edittext_style.xml"
+    },
+    {
+        "merged": "C:\\Users\\13916\\.gradle\\daemon\\7.4\\com.example.calculator.app-merged_res-29:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\13916\\.gradle\\daemon\\7.4\\com.example.calculator.app-main-31:\\mipmap-xhdpi\\ic_launcher.png"
+    }
+]

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff"
+    android:orientation="vertical"
+    android:paddingBottom="20dp"
+    android:paddingLeft="22.5dp"
+    android:paddingRight="22.5dp"
+    android:paddingTop="20dp">
+
+    <Button
+        android:id="@+id/btn_kmps"
+        android:layout_width="match_parent"
+        android:layout_height="42dp"
+        android:gravity="center"
+        android:text="@string/kmps"
+        android:background="#ffffff"
+        android:textColor="#000000"
+        android:textSize="18sp" />
+
+    <Button
+        android:id="@+id/btn_mph"
+        android:layout_width="match_parent"
+        android:layout_height="42dp"
+        android:layout_marginTop="16dp"
+        android:gravity="center"
+        android:text="@string/mph"
+        android:background="#ffffff"
+        android:textColor="#000000"
+        android:textSize="18sp" />
+
+    <Button
+        android:id="@+id/btn_Ma"
+        android:layout_width="match_parent"
+        android:layout_height="42dp"
+        android:layout_marginTop="16dp"
+        android:gravity="center"
+        android:text="@string/Ma"
+        android:background="#ffffff"
+        android:textColor="#000000"
+        android:textSize="18sp" />
+    <Button
+        android:id="@+id/btn_inps"
+        android:layout_width="match_parent"
+        android:layout_height="42dp"
+        android:layout_marginTop="16dp"
+        android:gravity="center"
+        android:text="@string/inps"
+        android:background="#ffffff"
+        android:textColor="#000000"
+        android:textSize="18sp" />
+    <Button
+        android:id="@+id/btn_mps"
+        android:layout_width="match_parent"
+        android:layout_height="42dp"
+        android:layout_marginTop="16dp"
+        android:gravity="center"
+        android:text="@string/mps"
+        android:background="#ffffff"
+        android:textColor="#000000"
+        android:textSize="18sp" />
+    <Button
+        android:id="@+id/btn_kmph"
+        android:layout_width="match_parent"
+        android:layout_height="42dp"
+        android:layout_marginTop="16dp"
+        android:gravity="center"
+        android:text="@string/kmph"
+        android:background="#ffffff"
+        android:textColor="#000000"
+        android:textSize="18sp" />
+
+</LinearLayout>

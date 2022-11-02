@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff"
+    android:orientation="vertical"
+    android:paddingBottom="20dp"
+    android:paddingLeft="22.5dp"
+    android:paddingRight="22.5dp"
+    android:paddingTop="20dp">
+    <Button
+        android:id="@+id/btn_USD"
+        android:layout_width="match_parent"
+        android:layout_height="42dp"
+        android:gravity="center"
+        android:text="@string/USD"
+        android:background="#ffffff"
+        android:textColor="#000000"
+        android:textSize="18sp" />
+
+    <Button
+        android:id="@+id/btn_JPY"
+        android:layout_width="match_parent"
+        android:layout_height="42dp"
+        android:gravity="center"
+        android:text="@string/JPY"
+        android:background="#ffffff"
+        android:textColor="#000000"
+        android:layout_marginTop="16dp"
+        android:textSize="18sp" />
+
+    <Button
+        android:id="@+id/btn_KRW"
+        android:layout_width="match_parent"
+        android:layout_height="42dp"
+        android:gravity="center"
+        android:text="@string/KRW"
+        android:background="#ffffff"
+        android:textColor="#000000"
+        android:layout_marginTop="16dp"
+        android:textSize="18sp" />
+    <Button
+        android:id="@+id/btn_GBP"
+        android:layout_width="match_parent"
+        android:layout_height="42dp"
+        android:gravity="center"
+        android:text="@string/GBP"
+        android:background="#ffffff"
+        android:textColor="#000000"
+        android:layout_marginTop="16dp"
+        android:textSize="18sp" />
+    <Button
+        android:id="@+id/btn_CNY"
+        android:layout_width="match_parent"
+        android:layout_height="42dp"
+        android:gravity="center"
+        android:text="@string/CNY"
+        android:background="#ffffff"
+        android:textColor="#000000"
+        android:layout_marginTop="16dp"
+        android:textSize="18sp" />
+    <Button
+        android:id="@+id/btn_ZWL"
+        android:layout_width="match_parent"
+        android:layout_height="42dp"
+        android:gravity="center"
+        android:text="@string/ZWL"
+        android:background="#ffffff"
+        android:textColor="#000000"
+        android:layout_marginTop="16dp"
+        android:textSize="18sp" />
+    <Button
+        android:id="@+id/btn_EUR"
+        android:layout_width="match_parent"
+        android:layout_height="42dp"
+        android:gravity="center"
+        android:text="@string/EUR"
+        android:background="#ffffff"
+        android:textColor="#000000"
+        android:layout_marginTop="16dp"
+        android:textSize="18sp" />
+    <Button
+        android:id="@+id/btn_RUB"
+        android:layout_width="match_parent"
+        android:layout_height="42dp"
+        android:gravity="center"
+        android:text="@string/RUB"
+        android:background="#ffffff"
+        android:textColor="#000000"
+        android:layout_marginTop="16dp"
+        android:textSize="18sp" />
+    <Button
+        android:id="@+id/btn_AUD"
+        android:layout_width="match_parent"
+        android:layout_height="42dp"
+        android:gravity="center"
+        android:text="@string/AUD"
+        android:background="#ffffff"
+        android:textColor="#000000"
+        android:layout_marginTop="16dp"
+        android:textSize="18sp" />
+    <Button
+        android:id="@+id/btn_HUD"
+        android:layout_width="match_parent"
+        android:layout_height="42dp"
+        android:gravity="center"
+        android:text="@string/HUD"
+        android:background="#ffffff"
+        android:textColor="#000000"
+        android:layout_marginTop="16dp"
+        android:textSize="18sp" />
+    <Button
+        android:id="@+id/btn_TWD"
+        android:layout_width="match_parent"
+        android:layout_height="42dp"
+        android:gravity="center"
+        android:text="@string/TWD"
+        android:background="#ffffff"
+        android:textColor="#000000"
+        android:layout_marginTop="16dp"
+        android:textSize="18sp" />
+    <Button
+        android:id="@+id/btn_INR"
+        android:layout_width="match_parent"
+        android:layout_height="42dp"
+        android:gravity="center"
+        android:text="@string/INR"
+        android:background="#ffffff"
+        android:textColor="#000000"
+        android:layout_marginTop="16dp"
+        android:textSize="18sp" />
+</LinearLayout>

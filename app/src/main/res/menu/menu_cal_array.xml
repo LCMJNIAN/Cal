@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/basic_cal"
+        android:title="@string/basic_cal"/>
+    <item
+        android:id="@+id/sci_cal"
+        android:title="@string/sic_cal"/>
+    <item
+        android:id="@+id/base_cal"
+        android:title="@string/base_cal"/>
+    <item
+        android:id="@+id/house_loan_cal"
+        android:title="@string/house_loan_cal"/>
+    <item
+        android:id="@+id/car_loan_cal"
+        android:title="@string/car_loan_cal"/>
+</menu>

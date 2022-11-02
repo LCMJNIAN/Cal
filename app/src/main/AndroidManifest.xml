@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.calculator">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme"
+        android:requestLegacyExternalStorage="true"
+        android:usesCleartextTraffic="true"
+        android:networkSecurityConfig="@xml/network_security_config">
+        <activity android:name=".Main.MainActivity"
+                  android:launchMode="singleTask"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Main.Convert.ConvertLengthActivity" />
+        <activity android:name=".Main.Convert.ConvertWeightActivity" />
+        <activity android:name=".Main.Convert.ConvertVolumeActivity" />
+        <activity android:name=".Main.Convert.ConvertTemperatureActivity" />
+        <activity android:name=".Main.Convert.ConvertSpeedActivity" />
+        <activity android:name=".Main.Convert.ConvertPressureActivity" />
+        <activity android:name=".Main.Convert.ConvertPowerActivity" />
+        <activity android:name=".Main.Convert.ConvertExchangeRateActivity" />
+        <activity android:name=".Main.Convert.ConvertBaseActivity" />
+        <activity android:name=".Main.Convert.ConvertAreaActivity" />
+        <activity android:name=".Main.Cal.SciCalActivity" />
+        <activity android:name=".Main.Cal.HouseLoanCalActivity" />
+        <activity android:name=".Main.Cal.CarLoanCalActivity" />
+        <activity android:name=".Main.Cal.BaseCalActivity" />
+        <activity android:name=".Main.CalHistoryActivity" />
+    </application>
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+</manifest>

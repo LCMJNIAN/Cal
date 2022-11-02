@@ -1,0 +1,195 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="convert_name">换算器</string>
+    <string name="cal_name">计算器</string>
+    <string name="sci_cal_name">科学计算器</string>
+    <string name="base_cal_name">进制计算器</string>
+    <string name="number_1">1</string>
+    <string name="number_2">2</string>
+    <string name="number_3">3</string>
+    <string name="number_4">4</string>
+    <string name="number_5">5</string>
+    <string name="number_6">6</string>
+    <string name="number_7">7</string>
+    <string name="number_8">8</string>
+    <string name="number_9">9</string>
+    <string name="number_0">0</string>
+    <string name="double_zero">00</string>
+    <string name="point">.</string>
+    <string name="clean">C</string>
+    <string name="delete">DEL</string>
+    <string name="equal">=</string>
+    <string name="sub">-</string>
+    <string name="plus">+</string>
+    <string name="multi">×</string>
+    <string name="divide">÷</string>
+
+    <string name="basic_cal">计算器</string>
+    <string name="sic_cal">科学计算器</string>
+    <string name="base_cal">进制计算器</string>
+    <string name="house_loan_cal">房贷计算器</string>
+    <string name="car_loan_cal">车贷计算器</string>
+    
+    <string name="area_conversion">面积换算</string>
+    <string name="area_meter">平方米</string>
+    <string name="area_kilo">平方千米</string>
+
+    <string name="speed_conversion">速度换算</string>
+    <string name="speed_meter">米/秒</string>
+    <string name="speed_kilo">千米/秒</string>
+
+    <string name="weight_conversion">重量换算</string>
+    <string name="weight_meter">克</string>
+    <string name="weight_kilo">千克</string>
+
+    <string name="temperature_conversion">温度换算</string>
+    <string name="temperature_meter">摄氏度</string>
+    <string name="temperature_kilo">华氏度</string>
+
+    <string name="power_conversion">功率换算</string>
+    <string name="power_meter">瓦</string>
+    <string name="power_kilo">千瓦</string>
+
+    <string name="pressure_conversion">压强换算</string>
+    <string name="pressure_meter">帕</string>
+    <string name="pressure_kilo">千帕</string>
+
+    <string name="volume_conversion">体积换算</string>
+    <string name="volume_meter">立方分米</string>
+    <string name="volume_kilo">立方米</string>
+
+    <string name="length_conversion">长度换算</string>
+    <string name="length_meter">米</string>
+    <string name="length_kilo">千米</string>
+
+    <string name="btn_sin">sin</string>
+    <string name="btn_cos">cos</string>
+    <string name="btn_tan">tan</string>
+    <string name="btn_log">lg</string>
+    <string name="btn_ln">ln</string>
+    <string name="btn_left">(</string>
+    <string name="btn_right">)</string>
+    <string name="btn_i">i</string>
+    <string name="btn_factorial">!</string>
+    <string name="btn_sqrt">^</string>
+    <string name="btn_evo">√</string>
+    <string name="btn_pi">π</string>
+    <string name="btn_e">e</string>
+    <string name="cal_complex">计算复数</string>
+    <string name="not_cal_complex">计算实数</string>
+
+    <string name="btn_and">AND</string>
+    <string name="btn_or">OR</string>
+    <string name="btn_xor">XOR</string>
+    <string name="btn_right_move"> <u>&#62;&gt;</u> </string>
+    <string name="btn_left_move"> <u>&#60;&lt;</u> </string>
+    <string name="all_clean">AC</string>
+    <string name="btn_A">A</string>
+    <string name="btn_B">B</string>
+    <string name="btn_C">C</string>
+    <string name="btn_D">D</string>
+    <string name="btn_E">E</string>
+    <string name="btn_F">F</string>
+
+    <string name="convert_length">长度换算</string>
+    <string name="convert_base">进制换算</string>
+    <string name="convert_exchange_rate">汇率换算</string>
+    <string name="convert_area">面积换算</string>
+    <string name="convert_speed">速度换算</string>
+    <string name="convert_weight">重量换算</string>
+    <string name="convert_temperature">温度换算</string>
+    <string name="convert_power">功率换算</string>
+    <string name="convert_pressure">压强换算</string>
+    <string name="convert_volume">体积换算</string>
+
+
+    <string name="pm">皮米</string>
+    <string name="nm">纳米</string>
+    <string name="um">微米</string>
+    <string name="mm">毫米</string>
+    <string name="dm">分米</string>
+    <string name="cm">厘米</string>
+    <string name="m">米</string>
+    <string name="km">千米</string>
+    <string name="mi">英里</string>
+
+    //面积单位
+    <string name="m2">平方米</string>
+    <string name="km2">平方千米</string>
+    <string name="dm2">平方分米</string>
+    <string name="cm2">平方厘米</string>
+    <string name="mm2">平方毫米</string>
+    <string name="a">公亩</string>
+    <string name="ha">公顷</string>
+    <string name="ft2">平方英尺</string>
+    <string name="mi2">平方英里</string>
+    <string name="顷">顷</string>
+    <string name="亩">亩</string>
+
+    //速度单位
+    <string name="kmps">千米/秒</string>
+    <string name="mph">英里/时</string>
+    <string name="Ma">马赫</string>
+    <string name="inps">英寸/秒</string>
+    <string name="mps">米/秒</string>
+    <string name="kmph">千米/时</string>
+
+    //重量单位
+    <string name="kg">千克</string>
+    <string name="g">克</string>
+    <string name="ug">微克</string>
+    <string name="t">吨</string>
+    <string name="mg">毫克</string>
+    <string name="lb">磅</string>
+    <string name="jin">斤</string>
+    <string name="liang">两</string>
+
+    //温度单位
+    <string name="C">摄氏度</string>
+    <string name="F">华氏度</string>
+    <string name="K">开尔文</string>
+
+    //功率单位
+    <string name="Jps">焦耳/秒</string>
+    <string name="W">瓦</string>
+    <string name="Nmps">牛顿·米/秒</string>
+    <string name="kW">千瓦</string>
+
+    //压强单位
+    <string name="Pa">帕</string>
+    <string name="mmw">毫米水柱</string>
+    <string name="mmHg">毫米汞柱</string>
+    <string name="hPa">百帕</string>
+    <string name="atm">标准大气压</string>
+    <string name="kPa">千帕</string>
+    <string name="MPa">兆帕</string>
+
+    //体积单位
+    <string name="m3">立方米</string>
+    <string name="cm3">立方厘米</string>
+    <string name="dm3">立方分米</string>
+    <string name="l">升</string>
+    <string name="ml">毫升</string>
+    <string name="mm3">立方毫米</string>
+    
+    //进制单位
+    <string name="decimal">十进制</string>
+    <string name="hexadecimal">十六进制</string>
+    <string name="binary">二进制</string>
+    <string name="octal">八进制</string>
+    
+    //汇率
+    <string name="USD">美元 USD</string>
+    <string name="JPY">日元 JPY</string>
+    <string name="KRW">韩元 KRW</string>
+    <string name="GBP">英镑 GBP</string>
+    <string name="EUR">欧元 EUR</string>
+    <string name="CNY">人民币 CNY</string>
+    <string name="ZWL">津巴布韦币 ZWL</string>
+    <string name="RUB">俄罗斯卢布 RUB</string>
+    <string name="AUD">澳大利亚元 AUD</string>
+    <string name="HUD">港元 HUD</string>
+    <string name="TWD">台币 TWD</string>
+    <string name="INR">印度卢比 INR</string>
+
+</resources>

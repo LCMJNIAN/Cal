@@ -1,0 +1,147 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.calculator"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="25"
+8-->E:\Calculator\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="33" />
+9-->E:\Calculator\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->E:\Calculator\app\src\main\AndroidManifest.xml:40:5-67
+11-->E:\Calculator\app\src\main\AndroidManifest.xml:40:22-64
+12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+12-->E:\Calculator\app\src\main\AndroidManifest.xml:41:5-79
+12-->E:\Calculator\app\src\main\AndroidManifest.xml:41:22-76
+13
+14    <application
+14-->E:\Calculator\app\src\main\AndroidManifest.xml:5:5-39:19
+15        android:allowBackup="true"
+15-->E:\Calculator\app\src\main\AndroidManifest.xml:6:9-35
+16        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+16-->[androidx.core:core:1.5.0] C:\Users\13916\.gradle\caches\transforms-3\5c5e8dce9a0ed12f290ac39851d18ca8\transformed\core-1.5.0\AndroidManifest.xml:24:18-86
+17        android:debuggable="true"
+18        android:extractNativeLibs="false"
+19        android:icon="@mipmap/ic_launcher"
+19-->E:\Calculator\app\src\main\AndroidManifest.xml:7:9-43
+20        android:label="@string/app_name"
+20-->E:\Calculator\app\src\main\AndroidManifest.xml:8:9-41
+21        android:networkSecurityConfig="@xml/network_security_config"
+21-->E:\Calculator\app\src\main\AndroidManifest.xml:14:9-69
+22        android:requestLegacyExternalStorage="true"
+22-->E:\Calculator\app\src\main\AndroidManifest.xml:12:9-52
+23        android:roundIcon="@mipmap/ic_launcher_round"
+23-->E:\Calculator\app\src\main\AndroidManifest.xml:9:9-54
+24        android:supportsRtl="true"
+24-->E:\Calculator\app\src\main\AndroidManifest.xml:10:9-35
+25        android:testOnly="true"
+26        android:theme="@style/AppTheme"
+26-->E:\Calculator\app\src\main\AndroidManifest.xml:11:9-40
+27        android:usesCleartextTraffic="true" >
+27-->E:\Calculator\app\src\main\AndroidManifest.xml:13:9-44
+28        <activity
+28-->E:\Calculator\app\src\main\AndroidManifest.xml:15:9-23:20
+29            android:name="com.example.calculator.Main.MainActivity"
+29-->E:\Calculator\app\src\main\AndroidManifest.xml:15:19-52
+30            android:exported="true"
+30-->E:\Calculator\app\src\main\AndroidManifest.xml:17:13-36
+31            android:launchMode="singleTask" >
+31-->E:\Calculator\app\src\main\AndroidManifest.xml:16:19-50
+32            <intent-filter>
+32-->E:\Calculator\app\src\main\AndroidManifest.xml:18:13-22:29
+33                <action android:name="android.intent.action.MAIN" />
+33-->E:\Calculator\app\src\main\AndroidManifest.xml:19:17-69
+33-->E:\Calculator\app\src\main\AndroidManifest.xml:19:25-66
+34
+35                <category android:name="android.intent.category.LAUNCHER" />
+35-->E:\Calculator\app\src\main\AndroidManifest.xml:21:17-77
+35-->E:\Calculator\app\src\main\AndroidManifest.xml:21:27-74
+36            </intent-filter>
+37        </activity>
+38        <activity android:name="com.example.calculator.Main.Convert.ConvertLengthActivity" />
+38-->E:\Calculator\app\src\main\AndroidManifest.xml:24:9-72
+38-->E:\Calculator\app\src\main\AndroidManifest.xml:24:19-69
+39        <activity android:name="com.example.calculator.Main.Convert.ConvertWeightActivity" />
+39-->E:\Calculator\app\src\main\AndroidManifest.xml:25:9-72
+39-->E:\Calculator\app\src\main\AndroidManifest.xml:25:19-69
+40        <activity android:name="com.example.calculator.Main.Convert.ConvertVolumeActivity" />
+40-->E:\Calculator\app\src\main\AndroidManifest.xml:26:9-72
+40-->E:\Calculator\app\src\main\AndroidManifest.xml:26:19-69
+41        <activity android:name="com.example.calculator.Main.Convert.ConvertTemperatureActivity" />
+41-->E:\Calculator\app\src\main\AndroidManifest.xml:27:9-77
+41-->E:\Calculator\app\src\main\AndroidManifest.xml:27:19-74
+42        <activity android:name="com.example.calculator.Main.Convert.ConvertSpeedActivity" />
+42-->E:\Calculator\app\src\main\AndroidManifest.xml:28:9-71
+42-->E:\Calculator\app\src\main\AndroidManifest.xml:28:19-68
+43        <activity android:name="com.example.calculator.Main.Convert.ConvertPressureActivity" />
+43-->E:\Calculator\app\src\main\AndroidManifest.xml:29:9-74
+43-->E:\Calculator\app\src\main\AndroidManifest.xml:29:19-71
+44        <activity android:name="com.example.calculator.Main.Convert.ConvertPowerActivity" />
+44-->E:\Calculator\app\src\main\AndroidManifest.xml:30:9-71
+44-->E:\Calculator\app\src\main\AndroidManifest.xml:30:19-68
+45        <activity android:name="com.example.calculator.Main.Convert.ConvertExchangeRateActivity" />
+45-->E:\Calculator\app\src\main\AndroidManifest.xml:31:9-78
+45-->E:\Calculator\app\src\main\AndroidManifest.xml:31:19-75
+46        <activity android:name="com.example.calculator.Main.Convert.ConvertBaseActivity" />
+46-->E:\Calculator\app\src\main\AndroidManifest.xml:32:9-70
+46-->E:\Calculator\app\src\main\AndroidManifest.xml:32:19-67
+47        <activity android:name="com.example.calculator.Main.Convert.ConvertAreaActivity" />
+47-->E:\Calculator\app\src\main\AndroidManifest.xml:33:9-70
+47-->E:\Calculator\app\src\main\AndroidManifest.xml:33:19-67
+48        <activity android:name="com.example.calculator.Main.Cal.SciCalActivity" />
+48-->E:\Calculator\app\src\main\AndroidManifest.xml:34:9-61
+48-->E:\Calculator\app\src\main\AndroidManifest.xml:34:19-58
+49        <activity android:name="com.example.calculator.Main.Cal.HouseLoanCalActivity" />
+49-->E:\Calculator\app\src\main\AndroidManifest.xml:35:9-67
+49-->E:\Calculator\app\src\main\AndroidManifest.xml:35:19-64
+50        <activity android:name="com.example.calculator.Main.Cal.CarLoanCalActivity" />
+50-->E:\Calculator\app\src\main\AndroidManifest.xml:36:9-65
+50-->E:\Calculator\app\src\main\AndroidManifest.xml:36:19-62
+51        <activity android:name="com.example.calculator.Main.Cal.BaseCalActivity" />
+51-->E:\Calculator\app\src\main\AndroidManifest.xml:37:9-62
+51-->E:\Calculator\app\src\main\AndroidManifest.xml:37:19-59
+52        <activity android:name="com.example.calculator.Main.CalHistoryActivity" />
+52-->E:\Calculator\app\src\main\AndroidManifest.xml:38:9-61
+52-->E:\Calculator\app\src\main\AndroidManifest.xml:38:19-58
+53
+54        <provider
+54-->[androidx.profileinstaller:profileinstaller:1.0.0] C:\Users\13916\.gradle\caches\transforms-3\cdf88334a7a6ac7cfe376eb832c3b971\transformed\jetified-profileinstaller-1.0.0\AndroidManifest.xml:26:9-34:20
+55            android:name="androidx.startup.InitializationProvider"
+55-->[androidx.profileinstaller:profileinstaller:1.0.0] C:\Users\13916\.gradle\caches\transforms-3\cdf88334a7a6ac7cfe376eb832c3b971\transformed\jetified-profileinstaller-1.0.0\AndroidManifest.xml:27:13-67
+56            android:authorities="com.example.calculator.androidx-startup"
+56-->[androidx.profileinstaller:profileinstaller:1.0.0] C:\Users\13916\.gradle\caches\transforms-3\cdf88334a7a6ac7cfe376eb832c3b971\transformed\jetified-profileinstaller-1.0.0\AndroidManifest.xml:28:13-68
+57            android:exported="false" >
+57-->[androidx.profileinstaller:profileinstaller:1.0.0] C:\Users\13916\.gradle\caches\transforms-3\cdf88334a7a6ac7cfe376eb832c3b971\transformed\jetified-profileinstaller-1.0.0\AndroidManifest.xml:29:13-37
+58            <meta-data
+58-->[androidx.profileinstaller:profileinstaller:1.0.0] C:\Users\13916\.gradle\caches\transforms-3\cdf88334a7a6ac7cfe376eb832c3b971\transformed\jetified-profileinstaller-1.0.0\AndroidManifest.xml:31:13-33:52
+59                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+59-->[androidx.profileinstaller:profileinstaller:1.0.0] C:\Users\13916\.gradle\caches\transforms-3\cdf88334a7a6ac7cfe376eb832c3b971\transformed\jetified-profileinstaller-1.0.0\AndroidManifest.xml:32:17-85
+60                android:value="androidx.startup" />
+60-->[androidx.profileinstaller:profileinstaller:1.0.0] C:\Users\13916\.gradle\caches\transforms-3\cdf88334a7a6ac7cfe376eb832c3b971\transformed\jetified-profileinstaller-1.0.0\AndroidManifest.xml:33:17-49
+61        </provider>
+62
+63        <receiver
+63-->[androidx.profileinstaller:profileinstaller:1.0.0] C:\Users\13916\.gradle\caches\transforms-3\cdf88334a7a6ac7cfe376eb832c3b971\transformed\jetified-profileinstaller-1.0.0\AndroidManifest.xml:36:9-45:20
+64            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+64-->[androidx.profileinstaller:profileinstaller:1.0.0] C:\Users\13916\.gradle\caches\transforms-3\cdf88334a7a6ac7cfe376eb832c3b971\transformed\jetified-profileinstaller-1.0.0\AndroidManifest.xml:37:13-76
+65            android:directBootAware="false"
+65-->[androidx.profileinstaller:profileinstaller:1.0.0] C:\Users\13916\.gradle\caches\transforms-3\cdf88334a7a6ac7cfe376eb832c3b971\transformed\jetified-profileinstaller-1.0.0\AndroidManifest.xml:38:13-44
+66            android:enabled="true"
+66-->[androidx.profileinstaller:profileinstaller:1.0.0] C:\Users\13916\.gradle\caches\transforms-3\cdf88334a7a6ac7cfe376eb832c3b971\transformed\jetified-profileinstaller-1.0.0\AndroidManifest.xml:39:13-35
+67            android:exported="true"
+67-->[androidx.profileinstaller:profileinstaller:1.0.0] C:\Users\13916\.gradle\caches\transforms-3\cdf88334a7a6ac7cfe376eb832c3b971\transformed\jetified-profileinstaller-1.0.0\AndroidManifest.xml:40:13-36
+68            android:permission="android.permission.DUMP" >
+68-->[androidx.profileinstaller:profileinstaller:1.0.0] C:\Users\13916\.gradle\caches\transforms-3\cdf88334a7a6ac7cfe376eb832c3b971\transformed\jetified-profileinstaller-1.0.0\AndroidManifest.xml:41:13-57
+69            <intent-filter>
+69-->[androidx.profileinstaller:profileinstaller:1.0.0] C:\Users\13916\.gradle\caches\transforms-3\cdf88334a7a6ac7cfe376eb832c3b971\transformed\jetified-profileinstaller-1.0.0\AndroidManifest.xml:42:13-44:29
+70                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+70-->[androidx.profileinstaller:profileinstaller:1.0.0] C:\Users\13916\.gradle\caches\transforms-3\cdf88334a7a6ac7cfe376eb832c3b971\transformed\jetified-profileinstaller-1.0.0\AndroidManifest.xml:43:17-91
+70-->[androidx.profileinstaller:profileinstaller:1.0.0] C:\Users\13916\.gradle\caches\transforms-3\cdf88334a7a6ac7cfe376eb832c3b971\transformed\jetified-profileinstaller-1.0.0\AndroidManifest.xml:43:25-88
+71            </intent-filter>
+72        </receiver>
+73    </application>
+74
+75</manifest>

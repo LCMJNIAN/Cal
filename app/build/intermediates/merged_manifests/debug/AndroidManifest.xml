@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.calculator"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="25"
+        android:targetSdkVersion="33" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <application
+        android:allowBackup="true"
+        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+        android:debuggable="true"
+        android:extractNativeLibs="false"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:networkSecurityConfig="@xml/network_security_config"
+        android:requestLegacyExternalStorage="true"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:testOnly="true"
+        android:theme="@style/AppTheme"
+        android:usesCleartextTraffic="true" >
+        <activity
+            android:name="com.example.calculator.Main.MainActivity"
+            android:exported="true"
+            android:launchMode="singleTask" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.example.calculator.Main.Convert.ConvertLengthActivity" />
+        <activity android:name="com.example.calculator.Main.Convert.ConvertWeightActivity" />
+        <activity android:name="com.example.calculator.Main.Convert.ConvertVolumeActivity" />
+        <activity android:name="com.example.calculator.Main.Convert.ConvertTemperatureActivity" />
+        <activity android:name="com.example.calculator.Main.Convert.ConvertSpeedActivity" />
+        <activity android:name="com.example.calculator.Main.Convert.ConvertPressureActivity" />
+        <activity android:name="com.example.calculator.Main.Convert.ConvertPowerActivity" />
+        <activity android:name="com.example.calculator.Main.Convert.ConvertExchangeRateActivity" />
+        <activity android:name="com.example.calculator.Main.Convert.ConvertBaseActivity" />
+        <activity android:name="com.example.calculator.Main.Convert.ConvertAreaActivity" />
+        <activity android:name="com.example.calculator.Main.Cal.SciCalActivity" />
+        <activity android:name="com.example.calculator.Main.Cal.HouseLoanCalActivity" />
+        <activity android:name="com.example.calculator.Main.Cal.CarLoanCalActivity" />
+        <activity android:name="com.example.calculator.Main.Cal.BaseCalActivity" />
+        <activity android:name="com.example.calculator.Main.CalHistoryActivity" />
+
+        <provider
+            android:name="androidx.startup.InitializationProvider"
+            android:authorities="com.example.calculator.androidx-startup"
+            android:exported="false" >
+            <meta-data
+                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+                android:value="androidx.startup" />
+        </provider>
+
+        <receiver
+            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+            android:directBootAware="false"
+            android:enabled="true"
+            android:exported="true"
+            android:permission="android.permission.DUMP" >
+            <intent-filter>
+                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+            </intent-filter>
+        </receiver>
+    </application>
+
+</manifest>
